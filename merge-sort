@@ -41,4 +41,5 @@ A = random.sample(range(-10, 10), 10)
 print("Arranjo não ordenado: ", A)
 aux = [0] * len(A)
 mergesort(A, aux, 0, len(A) - 1)
-print("Arranjo ordenado:", A)
+print("Arranjo ordenadasdadaaf3o:", A)
+#comentario aleatrio KEKW
